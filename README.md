@@ -24,10 +24,10 @@ Template for the Bodybuilder-Philosopher 4chan /fit/ general thread. Post away, 
     Please post material by other bodybuilder-philosopher, warrior-poet types (e.g. Yukio Mishima, Bruce Lee, etc.)
     
     >First thread, dedicated to Mike Mentzer on the anniversary of his 70th birthday
-    https://desuarchive.org/fit/thread/64366261/
+    desuarchive.org/fit/thread/64366261/
 
     >A collection of Mike Mentzer's best quotes in image form, with sources
-    https://github.com/Npoubko/Mentzer-Quote-Images
+    github.com/Npoubko/Mentzer-Quote-Images
 
     >Thread template
     github.com/Npoubko/bpg
