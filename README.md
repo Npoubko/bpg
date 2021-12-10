@@ -7,6 +7,6 @@ Template for the Bodybuilder-Philosopher 4chan /fit/ general thread
 * [Desuarchive link](https://desuarchive.org/fit/thread/64366261/)
 
 ## Thread Text Template (copy/paste into /fit/ whenever you want)
-![](bpg_small_filesize.png)
+![](/images/bpg_small_filesize.png)
 
 Please post other material by bodybuilder-philosopher, warrior-poet types (e.g. Yukio Mishima, Bruce Lee, etc.)
