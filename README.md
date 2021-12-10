@@ -9,20 +9,25 @@ Template for the Bodybuilder-Philosopher 4chan /fit/ general thread. Post away, 
 ## Thread Text Template (copy/paste into /fit/ whenever you want)
 ![](/images/bpg_small_filesize.png)
 
-
-
     This thread is dedicated to the preservation of the bodybuilder-philosopher, warrior-poet spirit.
     
     Philosopher translates literally to "lover of wisdom". Any man who does not blindly accept what he is told by others, who does not submit to the thinking of the majority, who thinks critically in order to determine for himself what is true and certain, who will not relinquish his intellectual independence to any other without logical effort, is a philosopher.
     
-    "Bodybuilder" refers to any man who builds his physical form, not necessarily in the traditional sense of "big muscles", but in any masculine fashion, including martial arts.
+    "Bodybuilder" refers to any man who builds his physical form in any masculine fashion, including martial arts.
     
-    Rational discourse and logical delineation of thinking are the hallmarks of this thread, along with provided quotes, literature (scientific or otherwise) and links to informative content.
+    Rational discourse and logical delineation of thinking are the hallmarks of this thread.
     
-    Remember, the mind is a part the body, therefore a fully actualized man - a man who is integrated - must seek to build his mind alongside his body. The development of the outer self without an attendant and equal development of the mind results in a lopsided being. There is a physical limit to how much muscle you can pack onto your body, but you can truly learn things up until your very last breath.
+    Please provide quotes, literature (scientific or otherwise) and links to informative content.
+    
+    The mind is a part the body, therefore a fully actualized man must seek to build his mind alongside his body, otherwise he is lopsided. 
+    
+    >There is a physical limit to how much muscle you can pack onto your body, but you can truly learn things up until your very last breath.
     
     >First thread, dedicated to Mike Mentzer on the anniversary of his 70th birthday
     https://desuarchive.org/fit/thread/64366261/
 
-    > Thread template
+    >A collection of Mike Mentzer's best quotes in image form, with sources
+    https://github.com/Npoubko/Mentzer-Quote-Images
+
+    >Thread template
     github.com/Npoubko/bpg
