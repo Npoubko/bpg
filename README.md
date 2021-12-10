@@ -9,6 +9,8 @@ Template for the Bodybuilder-Philosopher 4chan /fit/ general thread. Post away, 
 ## Thread Text Template (copy/paste into /fit/ whenever you want)
 ![](/images/bpg_small_filesize.png)
 
+Bodybuilder-Philosopher General (BPG)
+
     This thread is dedicated to the preservation of the bodybuilder-philosopher, warrior-poet spirit.
     
     Philosopher translates literally to "lover of wisdom". Any man who does not blindly accept what he is told by others, who does not submit to the thinking of the majority, who thinks critically in order to determine for himself what is true and certain, who will not relinquish his intellectual independence to any other without logical effort, is a philosopher.
