@@ -19,8 +19,8 @@ Rational discourse and logical delineation of thinking are the hallmarks of this
 
 Remember, the mind is a part the body, therefore a fully actualized man - a man who is integrated - must seek to build his mind alongside his body. The development of the outer self without an attendant and equal development of the mind results in a lopsided being. There is a physical limit to how much muscle you can pack onto your body, but you can truly learn things up until your very last breath.
 
-> First thread, dedicated to Mike Mentzer on the anniversary of his 70th birthday
-https://desuarchive.org/fit/thread/64366261/
+    > First thread, dedicated to Mike Mentzer on the anniversary of his 70th birthday
+    https://desuarchive.org/fit/thread/64366261/
 
-> Thread template
-github.com/Npoubko/bpg
+    > Thread template
+    github.com/Npoubko/bpg
