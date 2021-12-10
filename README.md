@@ -1,5 +1,5 @@
 # Bodybuilder-Philosopher General (BPG)
-Template for the Bodybuilder-Philosopher 4chan /fit/ general thread
+Template for the Bodybuilder-Philosopher 4chan /fit/ general thread. Post away, lads!
 
 ### Original Thread Archive
 * Posted on the 70th anniversary of Mike Mentzer's birth (November 15, 2021)
