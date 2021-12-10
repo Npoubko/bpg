@@ -23,6 +23,8 @@ Template for the Bodybuilder-Philosopher 4chan /fit/ general thread. Post away, 
     
     >There is a physical limit to how much muscle you can pack onto your body, but you can truly learn things up until your very last breath.
     
+    Please post material by other bodybuilder-philosopher, warrior-poet types (e.g. Yukio Mishima, Bruce Lee, etc.)
+    
     >First thread, dedicated to Mike Mentzer on the anniversary of his 70th birthday
     https://desuarchive.org/fit/thread/64366261/
 
