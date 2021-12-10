@@ -15,9 +15,7 @@ Template for the Bodybuilder-Philosopher 4chan /fit/ general thread. Post away, 
     
     "Bodybuilder" refers to any man who builds his physical form in any masculine fashion, including martial arts.
     
-    Rational discourse and logical delineation of thinking are the hallmarks of this thread.
-    
-    Please provide quotes, literature (scientific or otherwise) and links to informative content.
+    Rational discourse and logical delineation of thinking are the hallmarks of this thread.Please provide quotes, literature (scientific or otherwise) and links to informative content.
     
     The mind is a part the body, therefore a fully actualized man must seek to build his mind alongside his body, otherwise he is lopsided. 
     
